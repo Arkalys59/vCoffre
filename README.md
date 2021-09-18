@@ -22,7 +22,7 @@ Besoin d'aide : VibR1cY#2076
 
 Consommation 0.01 ms
 
-!! REBOOT OBLIGATOIRE !!
+!! REBOOT OBLIGATOIRE A LA FIN DE CRÉATION DE COFFRE !!
 
 ![img11](https://user-images.githubusercontent.com/83341842/133889429-0bbd2b2a-ae34-43d0-9f26-0358584c110c.PNG)
 
