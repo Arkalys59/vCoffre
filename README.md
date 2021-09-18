@@ -22,6 +22,8 @@ Besoin d'aide : VibR1cY#2076
 
 Consommation 0.01 ms
 
+!! REBOOT OBLIGATOIRE !!
+
 ![img11](https://user-images.githubusercontent.com/83341842/133889429-0bbd2b2a-ae34-43d0-9f26-0358584c110c.PNG)
 
 -- Menu de base 
@@ -35,9 +37,8 @@ Consommation 0.01 ms
 ![img4](https://user-images.githubusercontent.com/83341842/133889481-013be165-4f0c-4953-a808-e5b0fec3ac29.PNG)
 ![img5](https://user-images.githubusercontent.com/83341842/133889489-9dbbfa49-cb16-46c4-b721-dc6e153fe38f.PNG)
 
-REBOOT OBLIGATOIRE 
-
 -- Coffre 
+
 ![img6](https://user-images.githubusercontent.com/83341842/133889507-ecfa7125-6e4b-493a-9b81-58f7e96e8df8.PNG)
 ![img7](https://user-images.githubusercontent.com/83341842/133889512-7a6d0539-36b6-48d8-8a3c-d69514a79d37.PNG)
 ![img8](https://user-images.githubusercontent.com/83341842/133889515-ad4f2bda-b730-4e6a-89ea-0fca92f8298b.PNG)
