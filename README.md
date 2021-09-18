@@ -9,6 +9,14 @@ vCoffre :
   
 Ce script et sous la version de RageUI V2
 
+Commande pour ouvrir le menu avec permission (group)
+
+- Pour modif les permissions ou text du script --> shared/config.lua
+
+!! Merci d'être sympa si vous venez mp !!
+
+Besoin d'aide : VibR1cY#2076
+
 Consommation 0.01 ms
 
 ![img11](https://user-images.githubusercontent.com/83341842/133889429-0bbd2b2a-ae34-43d0-9f26-0358584c110c.PNG)
