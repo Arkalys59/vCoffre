@@ -11,6 +11,9 @@ Ce script et sous la version de RageUI V2
 
 Commande pour ouvrir le menu avec permission (group)
 
+![img12](https://user-images.githubusercontent.com/83341842/133889650-1c8c87e9-48a2-4885-822f-19e4d5df1049.PNG)
+
+
 - Pour modif les permissions ou text du script --> shared/config.lua
 
 !! Merci d'être sympa si vous venez mp !!
