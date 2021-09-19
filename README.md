@@ -9,7 +9,7 @@ vCoffre :
   
 Ce script et sous la version de RageUI V2
 
-Commande pour ouvrir le menu avec permission (group) ou touche configurable dans Configuration des Touches -> Fivem -> Menu Création Coffre (F9) avec permission (group)
+Commande pour ouvrir le menu avec permission (steam/license) ou touche configurable dans Configuration des Touches -> Fivem -> Menu Création Coffre (F9) avec permission (steam/license)
 
 
 ![img12](https://user-images.githubusercontent.com/83341842/133889650-1c8c87e9-48a2-4885-822f-19e4d5df1049.PNG)
