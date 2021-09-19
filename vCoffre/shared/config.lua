@@ -5,7 +5,7 @@ Config.option = {
     esxGetter = "esx:getSharedObject", -- Trigger ESX
     identifierType = 1, -- 1 -> Steam / 2 -> Fivem
     getAllowed = { -- Si identifierType = 1 alors il faut mettre votre steam hex / Si identifierType = 2 alors il faut mettre votre license rockstar
-        ["steam:11000010f2951fb"] = true,
+        ["steam:11000010f2951fb"] = true, -- VibR1cY
     },
     marker = { -- Option sur le marker
         markerType = 22, -- Type du marker
