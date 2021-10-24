@@ -42,7 +42,7 @@ function openCoffreCreator()
             RageUI.Separator(traduction("separator_desc_menu"))
             RageUI.Button(traduction("button_coffre_name"), traduction("button_coffre_name_desc"), {RightLabel = text(coffreData.coffreName)}, not serverInterrac, {
                 onSelected = function()
-                    local value = showBox("Nom du coffre", "", 15, false)
+                    local value = showBox("Nom du coffre", "", 35, false)
                     if value ~= nil then
                         coffreData.coffreName = value
                     else
@@ -74,7 +74,7 @@ function openCoffreCreator()
                 RageUI.Separator(traduction("separator_option_item"))
                 RageUI.Button(traduction("button_iventory_name"), traduction("button_iventory_name_desc"), {RightLabel = text(coffreData.addonInventory)}, not serverInterrac, {
                     onSelected = function()
-                        local value = showBox("Nom du coffre", "society_", 15, false)
+                        local value = showBox("Nom du coffre", "society_", 35, false)
                         if value ~= nil then
                             coffreData.addonInventory = value
                         else
@@ -101,7 +101,7 @@ function openCoffreCreator()
                 RageUI.Separator(traduction("separator_option_weapon"))
                 RageUI.Button(traduction("button_datastore_name"), traduction("button_datastore_name_desc"), {RightLabel = text(coffreData.datastore)}, not serverInterrac, {
                     onSelected = function()
-                        local value = showBox("Nom du coffre", "society_", 15, false)
+                        local value = showBox("Nom du coffre", "society_", 35, false)
                         if value ~= nil then
                             coffreData.datastore = value
                         else
@@ -129,7 +129,7 @@ function openCoffreCreator()
             if coffreData.job1Acces then
                 RageUI.Button(traduction("button_job1_name"), traduction("button_job1_name_desc"), {RightLabel = text(coffreData.job1Name)}, not serverInterrac, {
                     onSelected = function()
-                        local value = showBox("Nom du coffre", "", 15, false)
+                        local value = showBox("Nom du coffre", "", 35, false)
                         if value ~= nil then
                             coffreData.job1Name = value
                         else
@@ -155,7 +155,7 @@ function openCoffreCreator()
             if coffreData.job2Acces then
                 RageUI.Button(traduction("button_job2_name"), traduction("button_job2_name_desc"), {RightLabel = text(coffreData.job2Name)}, not serverInterrac, {
                     onSelected = function()
-                        local value = showBox("Nom du coffre", "", 15, false)
+                        local value = showBox("Nom du coffre", "", 35, false)
                         if value ~= nil then
                             coffreData.job2Name = value
                         else
